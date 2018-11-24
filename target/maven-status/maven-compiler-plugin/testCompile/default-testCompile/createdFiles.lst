@@ -1,0 +1,3 @@
+com\Sakiv\TestCases\LoginTestFireFox.class
+com\Sakiv\Base\BaseTest.class
+com\Sakiv\TestCases\LoginTestChrome.class

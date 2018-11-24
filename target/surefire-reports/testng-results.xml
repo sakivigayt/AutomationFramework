@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="99521" started-at="2018-11-24T16:43:42Z" finished-at="2018-11-24T16:45:21Z">
+    <groups>
+    </groups>
+    <test name="ChromeLoginTest" duration-ms="98625" started-at="2018-11-24T16:43:42Z" finished-at="2018-11-24T16:45:20Z">
+      <class name="com.Sakiv.TestCases.LoginTestChrome">
+        <test-method status="PASS" signature="loginTest(java.util.Hashtable)[pri:0, instance:com.Sakiv.TestCases.LoginTestChrome@371a67ec]" name="loginTest" duration-ms="78154" started-at="2018-11-24T22:13:42Z" data-provider="RegressionDP" finished-at="2018-11-24T22:15:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{browser=chrome, password=tutorial, Runmode=Y, userName=tutorial}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="loginTest(java.util.Hashtable)[pri:0, instance:com.Sakiv.TestCases.LoginTestChrome@371a67ec]" name="loginTest" duration-ms="19886" started-at="2018-11-24T22:15:00Z" data-provider="RegressionDP" finished-at="2018-11-24T22:15:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{browser=firefox, password=tutorial, Runmode=Y, userName=tutorial}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.Sakiv.TestCases.LoginTestChrome -->
+    </test> <!-- ChromeLoginTest -->
+    <test name="FireFoxLoginTest" duration-ms="99521" started-at="2018-11-24T16:43:42Z" finished-at="2018-11-24T16:45:21Z">
+      <class name="com.Sakiv.TestCases.LoginTestFireFox">
+        <test-method status="PASS" signature="frameworkSetUp()[pri:0, instance:com.Sakiv.TestCases.LoginTestFireFox@757942a1]" name="frameworkSetUp" is-config="true" duration-ms="14" started-at="2018-11-24T22:13:42Z" finished-at="2018-11-24T22:13:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- frameworkSetUp -->
+        <test-method status="PASS" signature="loginTest(java.util.Hashtable)[pri:0, instance:com.Sakiv.TestCases.LoginTestFireFox@757942a1]" name="loginTest" duration-ms="78249" started-at="2018-11-24T22:13:42Z" data-provider="RegressionDP" finished-at="2018-11-24T22:15:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{browser=chrome, password=tutorial, Runmode=Y, userName=tutorial}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="loginTest(java.util.Hashtable)[pri:0, instance:com.Sakiv.TestCases.LoginTestFireFox@757942a1]" name="loginTest" duration-ms="20690" started-at="2018-11-24T22:15:00Z" data-provider="RegressionDP" finished-at="2018-11-24T22:15:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{browser=firefox, password=tutorial, Runmode=Y, userName=tutorial}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.Sakiv.TestCases.LoginTestFireFox -->
+    </test> <!-- FireFoxLoginTest -->
+  </suite> <!-- Suite -->
+</testng-results>

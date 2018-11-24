@@ -1,0 +1,53 @@
+INFO    2018-11-24 22:13:42,039 [main] com.Sakiv.Base.BaseTest  - Config File Loaded 
+INFO    2018-11-24 22:13:42,632 [TestNG-tests-2] com.Sakiv.Base.BaseTest  - Execution started on chrome 
+INFO    2018-11-24 22:13:42,632 [TestNG-tests-1] com.Sakiv.Base.BaseTest  - Execution started on chrome 
+INFO    2018-11-24 22:13:42,761 [TestNG-tests-2] com.Sakiv.Base.BaseTest  - Chrome Driver Initialised 
+INFO    2018-11-24 22:13:42,761 [TestNG-tests-1] com.Sakiv.Base.BaseTest  - Chrome Driver Initialised 
+INFO    2018-11-24 22:13:45,460 [TestNG-tests-1] com.Sakiv.Base.BaseTest  - Execution started on Grid 
+INFO    2018-11-24 22:13:46,779 [TestNG-tests-2] com.Sakiv.Base.BaseTest  - Execution started on Grid 
+INFO    2018-11-24 22:13:49,344 [TestNG-tests-1] com.Sakiv.Pages.BasePage  - Navigated to http://newtours.demoaut.com/ 
+INFO    2018-11-24 22:13:49,344 [TestNG-tests-1] com.Sakiv.Pages.BasePage  - Driver Initialised 
+INFO    2018-11-24 22:13:49,365 [TestNG-tests-1] com.Sakiv.Pages.BasePage  - Page Factory Initialised 
+INFO    2018-11-24 22:13:49,379 [TestNG-tests-1] com.Sakiv.Pages.BasePage  - Page Loaded 
+INFO    2018-11-24 22:13:49,546 [TestNG-tests-1] com.Sakiv.Pages.BasePage  - entered value tutorial in [[RemoteWebDriver: chrome on XP (1a33335095dd3ade1376aad608916e3a)] -> xpath: //input[@name='userName']] 
+INFO    2018-11-24 22:13:49,668 [TestNG-tests-1] com.Sakiv.Pages.BasePage  - entered value tutorial in [[RemoteWebDriver: chrome on XP (1a33335095dd3ade1376aad608916e3a)] -> xpath: //input[@name='password']] 
+INFO    2018-11-24 22:13:49,845 [TestNG-tests-2] com.Sakiv.Pages.BasePage  - Navigated to http://newtours.demoaut.com/ 
+INFO    2018-11-24 22:13:49,845 [TestNG-tests-2] com.Sakiv.Pages.BasePage  - Driver Initialised 
+INFO    2018-11-24 22:13:49,846 [TestNG-tests-2] com.Sakiv.Pages.BasePage  - Page Factory Initialised 
+INFO    2018-11-24 22:13:49,847 [TestNG-tests-2] com.Sakiv.Pages.BasePage  - Page Loaded 
+INFO    2018-11-24 22:13:49,992 [TestNG-tests-2] com.Sakiv.Pages.BasePage  - entered value tutorial in [[RemoteWebDriver: chrome on XP (c23bba83875d9370c1f12c38d8596efa)] -> xpath: //input[@name='userName']] 
+INFO    2018-11-24 22:13:50,103 [TestNG-tests-2] com.Sakiv.Pages.BasePage  - entered value tutorial in [[RemoteWebDriver: chrome on XP (c23bba83875d9370c1f12c38d8596efa)] -> xpath: //input[@name='password']] 
+INFO    2018-11-24 22:15:00,501 [TestNG-tests-1] com.Sakiv.Pages.BasePage  - clicked on Proxy element for: AjaxElementLocator 'By.xpath: //input[@value='Login']' 
+INFO    2018-11-24 22:15:00,502 [TestNG-tests-1] com.Sakiv.Base.BaseTest  - User Logged in 
+INFO    2018-11-24 22:15:00,503 [TestNG-tests-2] com.Sakiv.Pages.BasePage  - clicked on Proxy element for: AjaxElementLocator 'By.xpath: //input[@value='Login']' 
+INFO    2018-11-24 22:15:00,503 [TestNG-tests-2] com.Sakiv.Base.BaseTest  - User Logged in 
+INFO    2018-11-24 22:15:00,778 [TestNG-tests-1] com.Sakiv.Base.BaseTest  - Driver Instance terminated 
+INFO    2018-11-24 22:15:00,778 [TestNG-tests-1] com.Sakiv.Base.BaseTest  - Browser Terminated 
+INFO    2018-11-24 22:15:00,781 [TestNG-tests-1] com.Sakiv.Base.BaseTest  - Execution started on firefox 
+INFO    2018-11-24 22:15:00,849 [TestNG-tests-1] com.Sakiv.Base.BaseTest  - FireFox Driver Initialised 
+INFO    2018-11-24 22:15:00,872 [TestNG-tests-2] com.Sakiv.Base.BaseTest  - Driver Instance terminated 
+INFO    2018-11-24 22:15:00,873 [TestNG-tests-2] com.Sakiv.Base.BaseTest  - Browser Terminated 
+INFO    2018-11-24 22:15:00,873 [TestNG-tests-2] com.Sakiv.Base.BaseTest  - Execution started on firefox 
+INFO    2018-11-24 22:15:00,973 [TestNG-tests-2] com.Sakiv.Base.BaseTest  - FireFox Driver Initialised 
+INFO    2018-11-24 22:15:07,968 [TestNG-tests-1] com.Sakiv.Base.BaseTest  - Execution started on Grid 
+INFO    2018-11-24 22:15:09,004 [TestNG-tests-2] com.Sakiv.Base.BaseTest  - Execution started on Grid 
+INFO    2018-11-24 22:15:13,474 [TestNG-tests-1] com.Sakiv.Pages.BasePage  - Navigated to http://newtours.demoaut.com/ 
+INFO    2018-11-24 22:15:13,475 [TestNG-tests-1] com.Sakiv.Pages.BasePage  - Driver Initialised 
+INFO    2018-11-24 22:15:13,475 [TestNG-tests-1] com.Sakiv.Pages.BasePage  - Page Factory Initialised 
+INFO    2018-11-24 22:15:13,476 [TestNG-tests-1] com.Sakiv.Pages.BasePage  - Page Loaded 
+INFO    2018-11-24 22:15:13,617 [TestNG-tests-1] com.Sakiv.Pages.BasePage  - entered value tutorial in [[RemoteWebDriver: firefox on XP (a08fb038-8fa9-4f13-812a-c14d56678c38)] -> xpath: //input[@name='userName']] 
+INFO    2018-11-24 22:15:13,673 [TestNG-tests-1] com.Sakiv.Pages.BasePage  - entered value tutorial in [[RemoteWebDriver: firefox on XP (a08fb038-8fa9-4f13-812a-c14d56678c38)] -> xpath: //input[@name='password']] 
+INFO    2018-11-24 22:15:14,651 [TestNG-tests-2] com.Sakiv.Pages.BasePage  - Navigated to http://newtours.demoaut.com/ 
+INFO    2018-11-24 22:15:14,651 [TestNG-tests-2] com.Sakiv.Pages.BasePage  - Driver Initialised 
+INFO    2018-11-24 22:15:14,652 [TestNG-tests-2] com.Sakiv.Pages.BasePage  - Page Factory Initialised 
+INFO    2018-11-24 22:15:14,652 [TestNG-tests-2] com.Sakiv.Pages.BasePage  - Page Loaded 
+INFO    2018-11-24 22:15:14,760 [TestNG-tests-2] com.Sakiv.Pages.BasePage  - entered value tutorial in [[RemoteWebDriver: firefox on XP (c4c39b44-a71c-48ea-b659-1891266e741c)] -> xpath: //input[@name='userName']] 
+INFO    2018-11-24 22:15:14,813 [TestNG-tests-2] com.Sakiv.Pages.BasePage  - entered value tutorial in [[RemoteWebDriver: firefox on XP (c4c39b44-a71c-48ea-b659-1891266e741c)] -> xpath: //input[@name='password']] 
+INFO    2018-11-24 22:15:18,941 [TestNG-tests-1] com.Sakiv.Pages.BasePage  - clicked on [[RemoteWebDriver: firefox on XP (a08fb038-8fa9-4f13-812a-c14d56678c38)] -> xpath: //input[@value='Login']] 
+INFO    2018-11-24 22:15:18,941 [TestNG-tests-1] com.Sakiv.Base.BaseTest  - User Logged in 
+INFO    2018-11-24 22:15:20,075 [TestNG-tests-2] com.Sakiv.Pages.BasePage  - clicked on [[RemoteWebDriver: firefox on XP (c4c39b44-a71c-48ea-b659-1891266e741c)] -> xpath: //input[@value='Login']] 
+INFO    2018-11-24 22:15:20,075 [TestNG-tests-2] com.Sakiv.Base.BaseTest  - User Logged in 
+INFO    2018-11-24 22:15:20,667 [TestNG-tests-1] com.Sakiv.Base.BaseTest  - Driver Instance terminated 
+INFO    2018-11-24 22:15:20,667 [TestNG-tests-1] com.Sakiv.Base.BaseTest  - Browser Terminated 
+INFO    2018-11-24 22:15:21,563 [TestNG-tests-2] com.Sakiv.Base.BaseTest  - Driver Instance terminated 
+INFO    2018-11-24 22:15:21,563 [TestNG-tests-2] com.Sakiv.Base.BaseTest  - Browser Terminated 
